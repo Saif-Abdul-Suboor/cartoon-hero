@@ -1,0 +1,29 @@
+body{
+	background-color: lightyellow;
+}
+
+h2{
+		font-size: 40px;
+
+	}
+
+	#first{
+		color: red;
+	}
+
+	.small{
+		color: blue;
+	}
+	
+
+	h2{
+		font-size: 60px;
+	}
+	
+	span{
+		font-style: italic;
+	}
+
+	h2 span{
+		text-decoration: line-through;
+	}
