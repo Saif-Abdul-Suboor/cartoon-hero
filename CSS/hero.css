@@ -10,7 +10,7 @@ html, body{
 }
 
 header{
-	background-color:  #0a0a29;
+	background-color:  #ff580f;
 	padding: 40px; /*shorthand notation*/
 	text-align: center;
 
@@ -24,7 +24,7 @@ h1{
 header img{
 		border-radius: 175px;
 		width: 300px;
-		height: 348px;
+		height: 350px;
 		border: 15px solid #4d0000;
 }
 
