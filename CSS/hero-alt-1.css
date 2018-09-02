@@ -7,9 +7,15 @@ html, body{
 }
 
 header{
+<<<<<<< HEAD
 	background-color: #cccccc;
 	background-image: url('../img/image-two.jpg');
     background-repeat: repeat;
+=======
+	background-color:  white;
+	background-image: url('../img/image-one.jpg');
+	background-repeat: repeat;
+>>>>>>> f28f9c3dd34c8985ba87ed3b9b7a53036e218ff7
 	padding: 40px; /*shorthand notation*/
 	text-align: center;
 
